@@ -1,21 +1,21 @@
 > "not all who wander are lost." – J.R.R. Tolkien
 
-# 🕵️‍♂️ who am i? 
+###### 🕵️‍♂️ who am i? 
 
 nobody. maybe someone. definitely not an AI.  
 
-## 👾 what i do?  
+###### 👾 what i do?  
 
 - i try to write code. it never works.  
 - i try other peoples code, and then it breaks.
 - i commit, then instantly regret.
 
-## 🎲 random facts  
+###### 🎲 random facts  
 
 - tabs > spaces (fight me).  
 - i once fixed a bug by deleting the whole project.
 
-## fractured lines
+###### 🎞 fractured lines
 
 ***keys clatter in the fog. what builds here dissolves at dusk***
 
@@ -24,7 +24,7 @@ nobody. maybe someone. definitely not an AI.
 - beneath the commits, something stirs.
 
 ---
-to the ***real*** coders
+###### 🧑‍💻 to the ***real*** coders
 
 to the ones who build, break, and fix.
 who turn logic into magic and chaos into code.
