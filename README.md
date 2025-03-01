@@ -23,7 +23,6 @@ nobody. maybe someone. definitely not an AI.
 - the cursor blinks, but never tells.
 - beneath the commits, something stirs.
 
----
 ###### 🧑‍💻 to the ***real*** coders
 
 to the ones who build, break, and fix.
